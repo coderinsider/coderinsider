@@ -17,3 +17,9 @@
 ## Connect With you
 [<img align="left" alt="# | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="0de9uy | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="0de9uy | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][linkedin]
+
+
+[facebook]: https://facebook.com/0de9uy
+[instagram]: https://instagram.com/
+[linkedin]: https://linkedin.com/in/
