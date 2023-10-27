@@ -22,11 +22,14 @@
 [<img align="left" alt="0de9uy | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][linkedin]
 
 <br/><br/><br/><br/><br/>
+
 ## Coding Life
 
 <p style="width:100%; height: 300px;">
   <img src="lance-concept-night-work-home-woker-working-at-night-programmer.jpg" style="object-fit: cover;" alt="Programmer Life's without she" />
 </p>
+
+
 [facebook]: https://facebook.com/0de9uy
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/
