@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p>
-  <img src="technology-code-programming-programmer.jpg" alt="Programmer Life's without she" />
+<p style="width:100%; height: 300px;">
+  <img src="technology-code-programming-programmer.jpg" style="object-fit: cover;" alt="Programmer Life's without she" />
 </p>
