@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p style="width:100%; height: 300px;">
+<p style="width:100; height: 300;">
   <img src="technology-code-programming-programmer.jpg" style="object-fit: cover;" alt="Programmer Life's without she" />
 </p>
 <br/>
